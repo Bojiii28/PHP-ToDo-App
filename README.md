@@ -109,7 +109,7 @@ Update the credentials:
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "todo_db";
+$dbname = "todo_app";
 ```
 
 ---
