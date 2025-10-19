@@ -1,4 +1,4 @@
-# 📝 php-todo-app
+# 📝 PHP-ToDo-App
 
 A simple **To-Do List Application** built with **PHP** and **MySQL**.  
 This project follows the **MVC architecture** (Model, View, Controller) and demonstrates **basic CRUD** operations.  
